@@ -9,7 +9,23 @@
 
 <a href="#install">2. Python Installation</a>
 
-<a href="#list">3. Python Lists</a>
+<a href="#list">3. Python Syntax </a>
+
+<a href="#list">4. Python Comments</a>
+
+<a href="#list">5. Python Variables and Data Type</a>
+
+<a href="#list">6. Python Operators</a>
+
+<a href="#list">7. Python String Manupulation</a>
+
+<a href="#list">8. Python Lists</a>
+
+<a href="#list">9. Python Tuples</a>
+
+<a href="#list">10. Python Sets</a>
+
+<a href="#list">11. Python Dictionaries</a>
 
 
 <h3 id='intro'>1. Python Introduction</h3>
