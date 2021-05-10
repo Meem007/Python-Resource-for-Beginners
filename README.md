@@ -104,8 +104,7 @@ Anything inside a single coat or a double coat is called a string. A string is a
 
 <h4>Assign String to a Variable</h4>
 
-`Input: a = "Hello"`
-
+`Input: a = "Hello"`<br>
 `       print(a)   `
 
 `Output: a = Hello`
