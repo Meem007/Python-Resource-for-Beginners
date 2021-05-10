@@ -27,6 +27,31 @@
 
 <a href="#list">11. Python Dictionaries</a>
 
+<a href="#list">12. Python Booleans</a>
+
+<a href="#list">13. Python For Loops</a>
+
+<a href="#list">14. Python While Loops</a>
+
+<a href="#list">15. Python If...Else</a>
+
+<a href="#list">16. Python Functions</a>
+
+<a href="#list">17. Python Lambda </a>
+
+<a href="#list">18. Python Arrays</a>
+
+<a href="#list">19. Python Classes,Objects & Methods</a>
+
+<a href="#list">20. Python Inheritance </a>
+
+<a href="#list">21. Python Iterators</a>
+
+<a href="#list">22. Python Scope</a>
+
+<a href="#list">23. Python Modules</a>
+
+
 
 <h3 id='intro'>1. Python Introduction</h3>
 
