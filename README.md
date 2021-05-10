@@ -2,7 +2,9 @@
 
 <h2 id='top'>Index</h2>
 
-<a href="#intro">>Python Introduction</a>
+<a href="#intro">1. Python Introduction</a>
+
+<a href="#install">2. Python Installation</a>
 
 <a href="#list">3. Python Lists</a>
 
@@ -24,7 +26,7 @@ mathematics,<br>
 system scripting,<br>
 Data Science & Machine Learning.
 
-<h3>2. Python Installation</h3>
+<h3 id="install">2. Python Installation</h3>
 
 PCs and Macs will have python already installed. However,if you find that, you do not have python installed on your computer, then you can download it for free from the following website: https://www.python.org/. For running code experiments and editing, a preferable platform is   Jupyter Notebook (Anaconda3). It's user-friendly, and it has already been built in the latest python version. For downloading follow this website: https://www.anaconda.com/products/individual#Downloads
 
