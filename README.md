@@ -1,13 +1,13 @@
 # Python-Resource-for-Beginners
 
-<h2>Index</h2>
+<h2 id='top'>Index</h2>
 
 <a href="#intro">>Python Introduction</a>
 
 <a href="#list">3. Python Lists</a>
 
 
-<h3 id='#intro'>Python Introduction</h3>
+<h3 id='intro'>Python Introduction</h3>
 
  This project include all python related materials for newbies where  anyone can learn basic python programming.
 
@@ -38,3 +38,6 @@ Lists are created using square brackets:
 
 thislist = ["apple", "banana", "cherry"]
 print(thislist)
+
+
+<a href="#top">Back to Index </a>
