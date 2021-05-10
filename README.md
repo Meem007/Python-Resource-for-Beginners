@@ -109,6 +109,7 @@ Anything inside a single coat or a double coat is called a string. A string is a
 
 `Output: a = Hello`
 
+<h4>Strings are Arrays</h4>
 
 <a href="#top">Back to Index </a>
 <hr>
