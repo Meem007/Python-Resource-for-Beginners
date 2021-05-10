@@ -110,6 +110,13 @@ Anything inside a single coat or a double coat is called a string. A string is a
 <br>
 `Output: a = Hello`
 
+<h4>String Length</h4>
+
+A string is a collection of different characters. We can also access different characters from strings according to the index. But how do you know how many characters there are in a string? To get the length of a string, use the len() function.
+
+
+
+
 <h4>Strings are Lists</h4>
 
  Python does not have a character data type, a single character is simply a string with a length of 1.Square brackets can be used to access elements of the string. For example: 
