@@ -58,7 +58,7 @@
  This project include all python related materials for newbies where  anyone can learn basic python programming.
 
 
-<h3>1. What is Python?</h3>
+<h3>1.1 What is Python?</h3>
 
 Python is a programming language. It was created by Guido van Rossum, and released in 1991.
 
