@@ -18,7 +18,7 @@
 
 Python is a programming language. It was created by Guido van Rossum, and released in 1991.
 
-Basically It is used for:
+<strong>Basically It is used for:</strong> 
 
 <li>web development (server-side)</li>
 <li>software development</li>
