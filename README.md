@@ -2,7 +2,7 @@
 
 # Python-Resource-for-Beginners
 
-```html
+
 <style type="text/css">
 	.code{color: red;}
 	
@@ -66,4 +66,3 @@ print(thislist)
 <a href="#top">Back to Index </a>
 
 
-```
