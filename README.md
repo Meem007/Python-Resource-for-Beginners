@@ -17,7 +17,7 @@
 
 <a href="#list">6. Python Operators</a>
 
-<a href="#list">7. Python String Manupulation</a>
+<a href="#list">7. Python String</a>
 
 <a href="#list">8. Python String Formatting</a>
 
