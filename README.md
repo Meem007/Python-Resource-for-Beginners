@@ -106,7 +106,7 @@ Anything inside a single coat or a double coat is called a string. A string is a
 
 `Input: a = "Hello"`
 
-    ` print(a)   `
+`       print(a)   `
 
 `Output: a = Hello`
 
