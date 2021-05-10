@@ -112,8 +112,11 @@ Anything inside a single coat or a double coat is called a string. A string is a
 
 <h4>String Length</h4>
 
-A string is a collection of different characters. We can also access different characters from strings according to the index. But how do you know how many characters there are in a string? To get the length of a string, use the len() function.
+A string is a collection of different characters. We can also access different characters from strings according to the index. But how do you know how many characters there are in a string? To get the length of a string, use the len() function. For example:
 
+` a = "Hello World!"`
+<br>
+`print(len(a))`
 
 
 
