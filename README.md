@@ -3,11 +3,6 @@
 # Python-Resource-for-Beginners
 
 
-<style type="text/css">
-	.code{color: red;}
-	
-</style>
-
 <h2 id='top'>Index</h2>
 
 <a href="#intro">1. Python Introduction</a>
@@ -49,16 +44,16 @@ Lists are used to store multiple items in a single variable.
 
 Lists are one of 4 built-in data types in Python used to store collections of data, the other 3 are Tuple, Set, and Dictionary, all with different qualities and usage.
 
-Lists are created using square brackets:
+<strong>Lists are created using square brackets:</strong>
 
-<div class="code">
 
-thislist = ["apple", "banana", "cherry"]
 
-print(thislist)
+<em>thislist = ["apple", "banana", "cherry"]</em>
+
+<em>print(thislist)</em>
 	
 
-</div>
+
 
 
 
