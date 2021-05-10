@@ -20,11 +20,11 @@ Python is a programming language. It was created by Guido van Rossum, and releas
 
 Basically It is used for:
 
-web development (server-side),<br>
-software development,<br>
-mathematics,<br>
-system scripting,<br>
-Data Science & Machine Learning.
+<li>web development (server-side)</li>
+<li>software development</li>
+<li>mathematics</li>
+<li>system scripting,</li>
+<li>Data Science & Machine Learning.</li>
 
 <h3 id="install">2. Python Installation</h3>
 
