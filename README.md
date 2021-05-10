@@ -12,7 +12,7 @@
 <a href="#list">3. Python Lists</a>
 
 
-<h3 id='intro'>Python Introduction</h3>
+<h3 id='intro'>1. Python Introduction</h3>
 
  This project include all python related materials for newbies where  anyone can learn basic python programming.
 
