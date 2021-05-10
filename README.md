@@ -107,7 +107,7 @@ Anything inside a single coat or a double coat is called a string. A string is a
 `Input: a = "Hello"` 
 <br>
 `       print(a)   `
-
+<br>
 `Output: a = Hello`
 
 <h4>Strings are Arrays</h4>
@@ -120,6 +120,12 @@ Anything inside a single coat or a double coat is called a string. A string is a
 <br>
 `Output : e `
 
+<h4>Looping Through a String</h4>
+Since strings are arrays, we can loop through the characters in a string, with a for loop. For Example:
+
+`for x in "Apple"`
+<br>
+`print(x)`
 
 
 
