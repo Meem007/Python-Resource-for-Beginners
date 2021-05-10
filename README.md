@@ -104,12 +104,25 @@ Anything inside a single coat or a double coat is called a string. A string is a
 
 <h4>Assign String to a Variable</h4>
 
-`Input: a = "Hello"`<br>
+`Input: a = "Hello"` 
+<br>
 `       print(a)   `
 
 `Output: a = Hello`
 
 <h4>Strings are Arrays</h4>
+
+ Python does not have a character data type, a single character is simply a string with a length of 1.Square brackets can be used to access elements of the string. For example: 
+ 
+`a = "Hello World!"`
+<br>
+`print(a[1])`
+<br>
+`Output : e `
+
+
+
+
 
 <a href="#top">Back to Index </a>
 <hr>
