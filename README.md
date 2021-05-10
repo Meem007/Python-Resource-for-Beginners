@@ -105,7 +105,7 @@ Anything inside a single coat or a double coat is called a string. A string is a
 <hr>
 
 
-<h3 id='list'>3. Python Lists</h3>
+<h3 id='list'>10. Python Lists</h3>
 Lists are used to store multiple items in a single variable.
 
 Lists are one of 4 built-in data types in Python used to store collections of data, the other 3 are Tuple, Set, and Dictionary, all with different qualities and usage.
