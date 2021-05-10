@@ -48,7 +48,7 @@ Lists are one of 4 built-in data types in Python used to store collections of da
 
 <strong>Lists are created using square brackets:</strong>
 
-
+- ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) `#f03c15`
 
 <em>thislist = ["apple", "banana", "cherry"]</em>
 
