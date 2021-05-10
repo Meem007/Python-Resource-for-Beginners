@@ -1,3 +1,9 @@
+<style type="text/css">
+
+	.code{color: red;}
+	
+</style>
+
 # Python-Resource-for-Beginners
 
 <h2 id='top'>Index</h2>
@@ -26,10 +32,15 @@ Python is a programming language. It was created by Guido van Rossum, and releas
 <li>system scripting,</li>
 <li>Data Science & Machine Learning.</li>
 
+
+<hr>
+
 <h3 id="install">2. Python Installation</h3>
 
 PCs and Macs will have python already installed. However,if you find that, you do not have python installed on your computer, then you can download it for free from the following website: https://www.python.org/. For running code experiments and editing, a preferable platform is   Jupyter Notebook (Anaconda3). It's user-friendly, and it has already been built in the latest python version. For downloading follow this website: https://www.anaconda.com/products/individual#Downloads
 
+
+<hr>
 
 <h3 id='list'>3. Python Lists</h3>
 Lists are used to store multiple items in a single variable.
@@ -38,8 +49,16 @@ Lists are one of 4 built-in data types in Python used to store collections of da
 
 Lists are created using square brackets:
 
+<div class="code">
+
 thislist = ["apple", "banana", "cherry"]
+
 print(thislist)
+	
+
+</div>
+
+
 
 
 <a href="#top">Back to Index </a>
