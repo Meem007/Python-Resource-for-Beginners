@@ -36,8 +36,10 @@ Python is a programming language. It was created by Guido van Rossum, and releas
 
 PCs and Macs will have python already installed. However,if you find that, you do not have python installed on your computer, then you can download it for free from the following website: https://www.python.org/. For running code experiments and editing, a preferable platform is   Jupyter Notebook (Anaconda3). It's user-friendly, and it has already been built in the latest python version. For downloading follow this website: https://www.anaconda.com/products/individual#Downloads
 
-
+<a href="#top">Back to Index </a>
 <hr>
+
+
 
 <h3 id='list'>3. Python Lists</h3>
 Lists are used to store multiple items in a single variable.
@@ -53,11 +55,7 @@ Lists are one of 4 built-in data types in Python used to store collections of da
 <em>print(thislist)</em>
 	
 
-
-
-
-
-
 <a href="#top">Back to Index </a>
+<hr>
 
 
