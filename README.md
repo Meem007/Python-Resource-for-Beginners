@@ -102,6 +102,7 @@ Anything inside a single coat or a double coat is called a string. A string is a
 
 `'Hello' is the same as "Hello"`
 
+<h4>Assign String to a Variable</h4>
 
 
 <a href="#top">Back to Index </a>
