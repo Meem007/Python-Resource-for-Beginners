@@ -200,6 +200,13 @@ Whitespace is the space before and/or after the actual text, and very often you 
 `print(a.strip())`
 
 
+<h4>Modify Strings: Replace String</h4>
+
+The replace() method replaces a string with another string, For example:
+
+` a = "Hello, World!"`
+<br>
+`print(a.replace("H","J"))`
 
 <a href="#top">Back to Index </a>
 <hr>
