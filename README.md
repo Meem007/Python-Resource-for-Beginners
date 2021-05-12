@@ -144,6 +144,20 @@ Since strings are arrays, we can loop through the characters in a string, with a
 <hr>
 
 
+<h3>Slicing String</h3>
+
+return a range of characters by using the slice syntax.Specify the start index and the end index, separated by a colon, to return a part of the string. For Example:
+
+Get the characters from position 2 to position 5 (not included):
+
+` a = "Hello, World!"`
+<br>
+`print(b(2:5))`
+
+<a href="#top">Back to Index </a>
+<hr>
+
+
 <h3 id='list'>10. Python Lists</h3>
 Lists are used to store multiple items in a single variable.
 
