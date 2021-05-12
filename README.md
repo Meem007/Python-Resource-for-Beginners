@@ -118,8 +118,6 @@ A string is a collection of different characters. We can also access different c
 <br>
 `print(len(a))`
 
-
-
 <h4>Strings are Lists</h4>
 
  Python does not have a character data type, a single character is simply a string with a length of 1.Square brackets can be used to access elements of the string. For example: 
@@ -141,7 +139,6 @@ Since strings are arrays, we can loop through the characters in a string, with a
 <a href="#top">Back to Index </a>
 <hr>
 
-
 <h4>Slicing String</h4>
 
 return a range of characters by using the slice syntax.Specify the start index and the end index, separated by a colon, to return a part of the string. For Example:
@@ -155,6 +152,19 @@ Get the characters from position 2 to position 5 (not included):
 <a href="#top">Back to Index </a>
 <hr>
 
+<h4>Slice From the Start</h4>
+
+By leaving out the start index, the range will start at the first character. Get the characters from the start to position 5 (not included), For example:
+
+` a = "Hello, World!"`
+<br>
+`print(b(2:5))`
+
+<a href="#top">Back to Index </a>
+<hr>
+
+
+<h4>Slice From the End</h4>
 
 <h3 id='list'>10. Python Lists</h3>
 Lists are used to store multiple items in a single variable.
