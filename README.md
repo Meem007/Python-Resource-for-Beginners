@@ -182,7 +182,13 @@ Python has a set of built-in methods that we can use on strings. The upper() met
 <br>
 `print(a.upper())`
 
+<h4>Modify Strings: Lower Case</h4>
 
+The lower() method returns the string in lower case.For example:
+
+` a = "Hello, World!"`
+<br>
+`print(a.lower())`
 
 <a href="#top">Back to Index </a>
 <hr>
