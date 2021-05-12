@@ -157,11 +157,14 @@ By leaving out the start index, the range will start at the first character. Get
 `print(b(2:5))`
 
 
+<h4>Slice From the End</h4>
+
+
 <a href="#top">Back to Index </a>
 <hr>
 
 
-<h4>Slice From the End</h4>
+
 
 <h3 id='list'>10. Python Lists</h3>
 Lists are used to store multiple items in a single variable.
