@@ -136,8 +136,6 @@ Since strings are arrays, we can loop through the characters in a string, with a
 <br>
 `print(x)`
 
-<a href="#top">Back to Index </a>
-<hr>
 
 <h4>Slicing String</h4>
 
@@ -149,8 +147,6 @@ Get the characters from position 2 to position 5 (not included):
 <br>
 `print(b(2:5))`
 
-<a href="#top">Back to Index </a>
-<hr>
 
 <h4>Slice From the Start</h4>
 
@@ -159,6 +155,7 @@ By leaving out the start index, the range will start at the first character. Get
 ` a = "Hello, World!"`
 <br>
 `print(b(2:5))`
+
 
 <a href="#top">Back to Index </a>
 <hr>
