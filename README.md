@@ -190,6 +190,17 @@ The lower() method returns the string in lower case.For example:
 <br>
 `print(a.lower())`
 
+
+<h4>Modify Strings: Remove Whitespace</h4>
+
+Whitespace is the space before and/or after the actual text, and very often you want to remove this space.The strip() method removes any whitespace from the beginning or the end. For example:
+
+` a = "Hello, World!"`
+<br>
+`print(a.strip())`
+
+
+
 <a href="#top">Back to Index </a>
 <hr>
 
