@@ -208,6 +208,14 @@ The replace() method replaces a string with another string, For example:
 <br>
 `print(a.replace("H","J"))`
 
+<h4>Modify Strings: Split String</h4>
+
+The split() method splits the string into substrings if it finds instances of the separator. For example:
+
+` a = "Hello, World!"`
+<br>
+`print(a.split(","))` # returns ['Hello', ' World!']
+
 <a href="#top">Back to Index </a>
 <hr>
 
