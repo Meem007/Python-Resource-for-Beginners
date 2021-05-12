@@ -166,6 +166,15 @@ By leaving out the end index, the range will go to the end.Get the characters fr
 `print(b(3:))`
 
 
+<h4>Negative Indexing</h4>
+
+Use negative indexes to start the slice from the end of the string,For example:
+
+` a = "Hello, World!"`
+<br>
+`print(b(-5:-2))`
+
+
 <a href="#top">Back to Index </a>
 <hr>
 
