@@ -174,6 +174,15 @@ Use negative indexes to start the slice from the end of the string,For example:
 <br>
 `print(b(-5:-2))`
 
+<h4>Modify Strings: Upper Case</h4>
+
+Python has a set of built-in methods that we can use on strings. The upper() method returns the string in upper case. For example:
+
+` a = "Hello, World!"`
+<br>
+`print(a.upper())`
+
+
 
 <a href="#top">Back to Index </a>
 <hr>
