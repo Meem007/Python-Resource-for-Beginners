@@ -158,6 +158,7 @@ By leaving out the start index, the range will start at the first character. Get
 
 
 <h4>Slice From the End</h4>
+
 By leaving out the end index, the range will go to the end.Get the characters from position 2, and all the way to the end.For example:
 
 ` a = "Hello, World!"`
