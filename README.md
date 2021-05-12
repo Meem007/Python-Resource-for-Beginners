@@ -154,10 +154,15 @@ By leaving out the start index, the range will start at the first character. Get
 
 ` a = "Hello, World!"`
 <br>
-`print(b(2:5))`
+`print(b(:5))`
 
 
 <h4>Slice From the End</h4>
+By leaving out the end index, the range will go to the end.Get the characters from position 2, and all the way to the end.For example:
+
+` a = "Hello, World!"`
+<br>
+`print(b(3:))`
 
 
 <a href="#top">Back to Index </a>
