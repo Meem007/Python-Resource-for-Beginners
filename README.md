@@ -95,6 +95,7 @@ PCs and Macs will have python already installed. However,if you find that, you d
 <a href="#top">Back to Index </a>
 <hr>
 <h3>Python Syntax </h3>
+
 Python Indentation
 
 <a href="#top">Back to Index </a>
