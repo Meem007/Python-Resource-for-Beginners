@@ -94,9 +94,11 @@ PCs and Macs will have python already installed. However,if you find that, you d
 
 <a href="#top">Back to Index </a>
 <hr>
-<h3 id="list">3. Python Syntax</h3>
+<h3 id="list">3. Python Syntax: Indentation </h3>
 
-Python Indentation
+Indentation refers to the spaces at the beginning of a code line.Where in other programming languages the indentation in code is for readability only, the indentation in Python is very important.Python uses indentation to indicate a block of code.
+
+
 
 <a href="#top">Back to Index </a>
 <hr>
