@@ -199,9 +199,6 @@ you can assign the same value to multiple variables in one line, For example:
 `print(z)`
 
 
-<a href="#top">Back to Index </a>
-<hr>
-
 <h4>Unpack a Collection</h4>
 If you have a collection of values in a list, tuple etc. Python allows you extract the values into variables. This is called unpacking. For example:
 
@@ -242,6 +239,11 @@ For numbers, the + character works as a mathematical operator:
 `y = 10`
 <br>
 `print(x + y)`
+
+
+
+<a href="#top">Back to Index </a>
+<hr>
 
 <h3 id='list'>7. Python String</h3>
 
