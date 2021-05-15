@@ -135,6 +135,26 @@ Variables are containers for storing data values.
 
 <h4>Creating Variables</h4>
 
+Python has no command for declaring a variable. A variable is created the moment you first assign a value to it. For example :
+
+`x = 5`
+<br>
+`y = "Meem"`
+<br>
+`print(x)`
+<br>
+`print(y)`
+
+Variables do not need to be declared with any particular type, and can even change type after they have been set. For example:
+
+`x = 4       # x is of type int`
+<br>
+`x = "Sally" # x is now of type str`
+<br>
+`print(x)`
+
+<h4>Casting</h4>
+
 
 <a href="#top">Back to Index </a>
 <hr>
