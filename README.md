@@ -101,7 +101,7 @@ Indentation refers to the spaces at the beginning of a code line.Where in other 
 
 `if 5>2:`
 <br>
-`	print("Five is greater than two")`
+     `print("Five is greater than two")`
 
 wrong Indentation,Syntax Error: For example:
 
