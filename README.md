@@ -186,14 +186,40 @@ Python allows you to assign values to multiple variables in one line.For example
 `print(c)`
 
 
+<h4>single Value to Multiple Variables</h4>4
+
+you can assign the same value to multiple variables in one line, For example:
+
+`x = y = z = "Orange"`
+<br>
+`print(x)`
+<br>
+`print(y)`
+<br>
+`print(z)`
+
 
 <a href="#top">Back to Index </a>
 <hr>
 
+<h4>Unpack a Collection</h4>
+If you have a collection of values in a list, tuple etc. Python allows you extract the values into variables. This is called unpacking. For example:
+
+`fruits = ["apple", "banana", "cherry"]`
+<br>
+`x, y, z = fruits`
+<br>
+`print(x)`
+<br>
+`print(y)`
+<br>
+`print(z)`
+
+
 
 <h3 id='list'>7. Python String</h3>
 
-Anything inside a single coat or a double coat is called a string. A string is a text. In Python, strings can be declared in two ways (excluding docstring). With a single coat or with a double coat. For example: 
+Anything inside a single coat or a double coat is called a string.A string is a text. In Python, strings can be declared in two ways (excluding docstring). With a single coat or with a double coat. For example: 
 
 `'Hello' is the same as "Hello"`
 
