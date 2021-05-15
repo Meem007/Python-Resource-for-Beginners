@@ -117,8 +117,7 @@ wrong Indentation,Syntax Error: For example:
 
 Comments can be used to explain Python code.It can be used to make the code more readable and used to prevent execution when testing code.
 
-
-
+<h4>Creating a Comment</h4>
 
 <a href="#top">Back to Index </a>
 <hr>
