@@ -173,6 +173,18 @@ You can get the data type of a variable with the type() function. For example:
 <br>
 `print(type(y))`
 
+<h4>Assign Multiple Values</h4>
+
+Python allows you to assign values to multiple variables in one line.For example :
+
+`a, b, c = "black", "pink", "yellow"`
+<br>
+`print(a)`
+<br>
+`print(b)`
+<br>
+`print(c)`
+
 
 
 <a href="#top">Back to Index </a>
