@@ -186,7 +186,7 @@ Python allows you to assign values to multiple variables in one line.For example
 `print(c)`
 
 
-<h4>single Value to Multiple Variables</h4>4
+<h4>single Value to Multiple Variables</h4>
 
 you can assign the same value to multiple variables in one line, For example:
 
