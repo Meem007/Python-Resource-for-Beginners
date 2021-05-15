@@ -242,6 +242,18 @@ For numbers, the + character works as a mathematical operator:
 `print(x + y)`
 
 
+<h4>Global Variables</h4>
+
+Variables that are created outside of a function (as in all of the examples above) are known as global variables.Global variables can be used by everyone, both inside of functions and outside.Create a variable outside of a function, and use it inside the function, For example:
+
+`x = "awesome"`
+<br>
+`def myfunc():`
+<br>
+  `print("Python is " + x)`
+  <br>
+
+`myfunc()`
 
 <a href="#top">Back to Index </a>
 <hr>
