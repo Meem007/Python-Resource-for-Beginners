@@ -127,6 +127,19 @@ Comments starts with a #, and Python will ignore them.For example:
 
 <a href="#top">Back to Index </a>
 <hr>
+
+
+<h3 id='list'>5. Python Variables and Data Type</h3>
+
+Variables are containers for storing data values.
+
+<h4>Creating Variables</h4>
+
+
+<a href="#top">Back to Index </a>
+<hr>
+
+
 <h3 id='list'>7. Python String</h3>
 
 Anything inside a single coat or a double coat is called a string. A string is a text. In Python, strings can be declared in two ways (excluding docstring). With a single coat or with a double coat. For example: 
