@@ -115,7 +115,7 @@ wrong Indentation,Syntax Error: For example:
 
 <h3 id='list'>4. Python Comments</h3>
 
-
+Comments can be used to explain Python code.It can be used to make the code more readable and used to prevent execution when testing code.
 
 
 
