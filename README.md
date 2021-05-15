@@ -149,7 +149,7 @@ Variables do not need to be declared with any particular type, and can even chan
 
 `x = 4       # x is of type int`
 <br>
-`x = "Sally" # x is now of type str`
+`x = "Meem" # x is now of type str`
 <br>
 `print(x)`
 
