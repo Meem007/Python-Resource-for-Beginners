@@ -234,6 +234,15 @@ you can also use this way, + character to add a variable to another variable:
 <br>
 `print(z)`
 
+
+For numbers, the + character works as a mathematical operator:
+
+`x = 5`
+<br>
+`y = 10`
+<br>
+`print(x + y)`
+
 <h3 id='list'>7. Python String</h3>
 
 Anything inside a single coat or a double coat is called a string.A string is a text. In Python, strings can be declared in two ways (excluding docstring). With a single coat or with a double coat. For example: 
