@@ -200,6 +200,7 @@ you can assign the same value to multiple variables in one line, For example:
 
 
 <h4>Unpack a Collection</h4>
+
 If you have a collection of values in a list, tuple etc. Python allows you extract the values into variables. This is called unpacking. For example:
 
 `fruits = ["apple", "banana", "cherry"]`
