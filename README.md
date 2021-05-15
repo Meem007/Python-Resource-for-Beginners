@@ -277,6 +277,27 @@ Create a variable inside a function, with the same name as the global variable
 
 <h3 id='list'>6.Python Operators</h3>
 
+Operators are used to perform operations on variables and values.
+
+<h4>Python Arithmetic Operators</h4>
+
+Arithmetic operators are used with numeric values to perform common mathematical operations:
+
+Operator	 Name	       Example
+
+`+	       Addition	        x + y`
+<br>	
+`-	      Subtraction	    x - y`
+<br>
+`*	    Multiplication	    x * y`
+<br>	
+`/	     Division	        x / y`
+<br>	
+`%	      Modulus	        x % y`
+<br>	
+`**	    Exponentiation	   x ** y`
+<br>	
+`//	    Floor division	   x // y`
 
 
 <a href="#top">Back to Index </a>
