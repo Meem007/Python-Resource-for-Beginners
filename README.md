@@ -103,11 +103,11 @@ Indentation refers to the spaces at the beginning of a code line.Where in other 
 <br>
 `	print("Five is greater than two")`
 
-wrong Indentation, For example:
+wrong Indentation,Syntax Error: For example:
 
 `if 5>2:`
 <br>
-`print("Five is greater than two")`
+`print("Five is greater than two")` 
 
 <a href="#top">Back to Index </a>
 <hr>
