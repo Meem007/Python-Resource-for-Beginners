@@ -255,6 +255,23 @@ Variables that are created outside of a function (as in all of the examples abov
 
 `myfunc()`
 
+Create a variable inside a function, with the same name as the global variable
+
+`x = "awesome"`
+<br>
+
+`def myfunc():`
+<br>
+  `x = "fantastic"`
+  <br>
+  `print("Python is " + x)`
+  <br>
+
+`myfunc()`
+<br>
+
+`print("Python is " + x)`
+
 <a href="#top">Back to Index </a>
 <hr>
 
