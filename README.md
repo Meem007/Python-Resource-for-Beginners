@@ -156,11 +156,11 @@ Variables do not need to be declared with any particular type, and can even chan
 <h4>Casting</h4>
 If you want to specify the data type of a variable, this can be done with casting.For example:
 
-`x = str(5)    # x will be '3'`
+`x = str(5)    # x will be '5'`
 <br>
 `y = int(3)    # y will be 3`
 <br>
-`z = float(2)  # z will be 3.0`
+`z = float(2)  # z will be 2.0`
 
 <h4>Get the Type</h4>
 You can get the data type of a variable with the type() function. For example:
