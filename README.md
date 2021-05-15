@@ -216,6 +216,23 @@ If you have a collection of values in a list, tuple etc. Python allows you extra
 `print(z)`
 
 
+<h4>Output Variables</h4>
+
+The Python print statement is often used to output variables.To combine both text and a variable, Python uses the + character. For example:
+
+`x = "popular language"`
+<br>
+`print("Python is " + x)`
+
+you can also use this way, + character to add a variable to another variable:
+
+`x = "Python is "`
+<br>
+`y = "awesome"`
+<br>
+`z =  x + y`
+<br>
+`print(z)`
 
 <h3 id='list'>7. Python String</h3>
 
